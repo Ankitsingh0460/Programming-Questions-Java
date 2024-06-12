@@ -9,7 +9,7 @@ class Multiplication {
 
     for (int i = 1; i <= 10; i++) {
       int multi = num * i;
-      System.out.println(multi);
+      System.out.println(num + "X" + i + "=" + multi);
 
     }
 
