@@ -8,7 +8,6 @@ class ReverceTheDigits {
     int newNum = 0;
     while (num > 0) {
       int Digit = num % 10;
-
       newNum = newNum * 10 + Digit;
       num /= 10;
 
