@@ -9,12 +9,5 @@ class SumAvgInArray {
     int[] nums = new int[size];
     int i = 0;
 
-    while (i < size) {
-      System.out.print("Enter Array Element" + (i + 1) + ":");
-      nums[i] = input.nextInt();
-      i++;
-
-    }
-
   }
 }
