@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//
 class MirrorRightPattern {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
